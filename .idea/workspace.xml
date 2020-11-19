@@ -18,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kVA4P67vdIDCQbYdkvzmNBeEPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +31,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,11 +44,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605775192475</updated>
-      <workItem from="1605775193524" duration="326000" />
+      <workItem from="1605775193524" duration="815000" />
     </task>
+    <task id="LOCAL-00001" summary="Cours">
+      <created>1605775676999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605775676999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cours" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cours" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="649" y="138" key="CommitChangelistDialog2" timestamp="1605775676613">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="649" y="138" key="CommitChangelistDialog2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605775676613" />
+    <state x="805" y="302" key="FileChooserDialogImpl" timestamp="1605775726638">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="302" key="FileChooserDialogImpl/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605775726638" />
+    <state x="533" y="206" key="SettingsEditor" timestamp="1605775770648">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="533" y="206" key="SettingsEditor/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605775770648" />
   </component>
 </project>
