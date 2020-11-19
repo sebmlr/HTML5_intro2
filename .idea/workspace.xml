@@ -39,6 +39,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebml\PhpstormProjects\ProjetFrontLB" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605775192475</updated>
-      <workItem from="1605775193524" duration="8506000" />
+      <workItem from="1605775193524" duration="8521000" />
+      <workItem from="1605787277614" duration="2666000" />
     </task>
     <task id="LOCAL-00001" summary="Cours">
       <created>1605775676999</created>
@@ -84,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605781553709</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cours balises">
+      <created>1605785915372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605785915372</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,9 +109,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cours balises" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="138" key="CommitChangelistDialog2" timestamp="1605781553294">
-      <screen x="0" y="0" width="2048" height="1122" />
+    <state x="574" y="-1405" key="CommitChangelistDialog2" timestamp="1605785914976">
+      <screen x="0" y="-1527" width="1810" height="993" />
     </state>
+    <state x="574" y="-1405" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.-1527.1810.993" timestamp="1605785914976" />
     <state x="649" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605781553294" />
     <state x="649" y="138" key="CommitChangelistDialog2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605780175814" />
     <state x="805" y="302" key="FileChooserDialogImpl" timestamp="1605775726638">
@@ -113,9 +127,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="533" y="206" key="SettingsEditor/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605778462115" />
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605781555922">
-      <screen x="0" y="0" width="2048" height="1122" />
+    <state x="545" y="-1267" key="Vcs.Push.Dialog.v2" timestamp="1605785916339">
+      <screen x="0" y="-1527" width="1810" height="993" />
     </state>
+    <state x="545" y="-1267" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.-1527.1810.993" timestamp="1605785916339" />
     <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605781555922" />
     <state x="617" y="294" key="Vcs.Push.Dialog.v2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605780178851" />
   </component>
