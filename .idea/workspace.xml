@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01fdc8d3-3f8e-49e3-b22b-b10a37bd54a8" name="Default Changelist" comment="" />
+    <list default="true" id="01fdc8d3-3f8e-49e3-b22b-b10a37bd54a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605775192475</updated>
-      <workItem from="1605775193524" duration="815000" />
+      <workItem from="1605775193524" duration="4437000" />
     </task>
     <task id="LOCAL-00001" summary="Cours">
       <created>1605775676999</created>
@@ -53,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605775676999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cours">
+      <created>1605776049014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605776049014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cours">
+      <created>1605776093179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605776093179</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,17 +81,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cours" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="138" key="CommitChangelistDialog2" timestamp="1605775676613">
+    <state x="649" y="138" key="CommitChangelistDialog2" timestamp="1605776092797">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="649" y="138" key="CommitChangelistDialog2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605775676613" />
+    <state x="649" y="138" key="CommitChangelistDialog2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605776092797" />
     <state x="805" y="302" key="FileChooserDialogImpl" timestamp="1605775726638">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="805" y="302" key="FileChooserDialogImpl/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605775726638" />
-    <state x="533" y="206" key="SettingsEditor" timestamp="1605775770648">
+    <state x="895" y="459" key="Github.ShareDialog" timestamp="1605776026758">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="533" y="206" key="SettingsEditor/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605775770648" />
+    <state x="895" y="459" key="Github.ShareDialog/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605776026758" />
+    <state x="533" y="206" key="SettingsEditor" timestamp="1605778462115">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="533" y="206" key="SettingsEditor/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605778462115" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605776050212">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/309.-1527.1810.993/-2715.-90.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605776050212" />
   </component>
 </project>
